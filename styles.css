@@ -1,0 +1,32 @@
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+body.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.text-light-mode {
+    color: #ffffff;
+}
+
+.text-dark-mode {
+    color: #333333;
+}
+
+td {
+ padding: 5px;
+}
+.c0 {
+    text-align: right;
+}
+.c1 {
+    text-align: left;
+}
+.submit1
+{
+    text-align: center;  
+}
